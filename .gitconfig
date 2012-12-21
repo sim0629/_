@@ -1,0 +1,9 @@
+[core]
+    editor = vim
+
+[color]
+    ui = auto
+
+[user]
+    name = sgm
+    email = sim0629@gmail.com
