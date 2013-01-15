@@ -1,11 +1,11 @@
 [core]
     editor = vim
 
-[diff]
-    tool = vimdiff
-
 [color]
     ui = auto
+
+[diff]
+    tool = vimdiff
 
 [user]
     name = sgm
