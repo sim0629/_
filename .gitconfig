@@ -1,3 +1,6 @@
+[alias]
+    cm = commit --cleanup=whitespace
+
 [core]
     editor = vim
 
