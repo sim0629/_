@@ -1,5 +1,6 @@
 [alias]
     cm = commit --cleanup=whitespace
+    svncm = svn dcommit --rmdir
 
 [core]
     editor = vim
