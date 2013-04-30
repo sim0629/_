@@ -1,5 +1,5 @@
 [alias]
-    cm = commit --cleanup=whitespace
+    cm = commit --cleanup=whitespace --no-status
     svncm = svn dcommit --rmdir
 
 [core]
