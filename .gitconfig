@@ -3,6 +3,7 @@
     svncm = svn dcommit --rmdir
 
 [core]
+    autocrlf = false
     editor = vim
 
 [color]
