@@ -5,6 +5,7 @@
 [core]
     autocrlf = false
     editor = vim
+    whitespace = cr-at-eol
 
 [color]
     ui = auto
