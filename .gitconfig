@@ -1,5 +1,6 @@
 [alias]
     cm = commit --cleanup=whitespace --no-status
+    graph = log --graph --all --oneline --decorate
     svncm = svn dcommit --rmdir
 
 [core]
