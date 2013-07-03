@@ -1,6 +1,7 @@
 [alias]
     cm = commit --cleanup=whitespace --no-status
     graph = log --graph --all --oneline --decorate
+    mg = "!f() { [ $2 ] && git checkout $1 && git merge $2; }; f"
     svncm = svn dcommit --rmdir
 
 [core]
