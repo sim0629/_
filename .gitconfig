@@ -15,6 +15,9 @@
 [diff]
     tool = vimdiff
 
+[push]
+    default = upstream
+
 [user]
     name = sgm
     email = sim0629@gmail.com
