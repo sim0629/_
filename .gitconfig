@@ -3,7 +3,7 @@
     graph = log --graph --all --oneline --decorate
     mg = "!f() { [ $2 ] && git checkout $1 && git merge $2; }; f"
     svncm = svn dcommit --rmdir
-    ur = "!f() { [ $2 ] && git update-ref `git show-ref $1 | head -n 1 | awk '{print $2}'` $2; }; f"
+    ur = branch --no-track -f
 
 [color]
     ui = auto
