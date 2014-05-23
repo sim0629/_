@@ -32,9 +32,11 @@ set magic
 set sol
 set scs
 
+set autoindent
 set smartindent
 set tabstop=4
 set shiftwidth=4
+filet plugin indent on
 set expandtab
 
 set mouse=a
