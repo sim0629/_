@@ -15,6 +15,9 @@
 [diff]
     tool = vimdiff
 
+[merge]
+    tool = vimdiff
+
 [push]
     default = upstream
 
