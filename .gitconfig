@@ -1,6 +1,6 @@
 [alias]
     cm = commit --cleanup=whitespace --no-status
-    graph = log --graph --all --oneline --decorate
+    graph = log --graph --oneline --decorate
     svncm = svn dcommit --rmdir
     ur = branch --no-track -f
 
