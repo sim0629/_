@@ -22,5 +22,5 @@
     default = upstream
 
 [user]
-    name = sgm
+    name = "Gyumin Sim"
     email = sim0629@gmail.com
