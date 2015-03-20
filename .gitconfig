@@ -13,6 +13,7 @@
     whitespace = cr-at-eol
 
 [diff]
+    renames = true
     tool = vimdiff
 
 [merge]
