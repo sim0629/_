@@ -17,6 +17,9 @@
     renames = true
     tool = vimdiff
 
+[fetch]
+    prune = true
+
 [merge]
     tool = vimdiff
 
