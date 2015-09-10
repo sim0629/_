@@ -11,6 +11,7 @@
 [core]
     autocrlf = false
     editor = vim
+    excludesfile = "~/.gitignore"
     whitespace = cr-at-eol
 
 [diff]
