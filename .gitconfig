@@ -16,6 +16,7 @@
 
 [diff]
     renames = true
+    submodule = log
     tool = vimdiff
 
 [fetch]
