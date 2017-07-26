@@ -1,7 +1,7 @@
 [alias]
     amend = commit --amend --no-edit
     cm = commit --cleanup=whitespace --no-status
-    graph = log --graph --oneline --decorate --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
+    graph = log --graph --oneline --decorate --date-order --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
     svncm = svn dcommit --rmdir
     ur = branch --no-track -f
 
