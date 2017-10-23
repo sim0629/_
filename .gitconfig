@@ -9,7 +9,7 @@
     ui = auto
 
 [core]
-    autocrlf = false
+    autocrlf = input
     editor = vim
     excludesfile = "~/.gitignore"
     whitespace = cr-at-eol
