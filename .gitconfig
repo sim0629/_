@@ -22,6 +22,9 @@
 [fetch]
     prune = true
 
+[log]
+    follow = true
+
 [merge]
     tool = vimdiff
 
