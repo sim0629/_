@@ -22,6 +22,9 @@
 [fetch]
     prune = true
 
+[init]
+    defaultBranch = main
+
 [log]
     follow = true
 
