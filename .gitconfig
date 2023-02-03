@@ -35,6 +35,7 @@
     rebase = true
 
 [push]
+    autoSetupRemote = true
     default = upstream
 
 [user]
